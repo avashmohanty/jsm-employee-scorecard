@@ -1,0 +1,6 @@
+{
+  "_comment": "ILLUSTRATIVE targets in calendar hours. Replace with your contractual SLAs.",
+  "sla_hours": {"P1": 4, "P2": 8, "P3": 24, "P4": 72},
+  "weights": {"Incident": 2.0, "Service Request": 1.0},
+  "sla_flag_threshold_pct": 80
+}
